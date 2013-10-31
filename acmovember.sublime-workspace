@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"outl",
+				"outline"
+			],
+			[
+				"outline-of",
+				"-moz-outline-offset:   (property)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"cm",
+				"cm_link_click"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"categ",
+				"categoryId"
+			],
+			[
+				"produ",
+				"productId"
+			],
+			[
+				"prod",
+				"productId"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"container",
+				"containerSize"
+			],
+			[
+				"conta",
+				"containerSize"
+			],
+			[
+				"swi",
+				"swiper"
+			],
+			[
+				"curent",
+				"currentPosition"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ac-badg",
+				"ac-badge"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ac",
+				"ac-badge"
+			],
+			[
+				"bdrs",
+				"bdrs	border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"lists",
+				"list-s	list-style-type: square;"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"bad",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/acamara/Downloads/circle/index.html",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/zoomModalView.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/views/_zoomModalView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productPriceLowest.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/productView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productQuantity.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/product.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/_product.scss",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productUpperContent.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productImages.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/footer.hbs",
+		"/home/acamara/Downloads/PDPMas_ProductImage_Zoom.feature",
+		"/home/acamara/Desktop/test.html",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productDetails.hbs",
+		"/home/acamara/MEW2_0/client/mcom/src/templates/product.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productPrice.hbs",
+		"/home/acamara/MEW2_0/client/mcom/src/templates/partials/productPriceSingle.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/config.js",
+		"/home/acamara/MEW2_0/client/mcom/src/scripts/views/productView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/partials/productImagesAndSwatches.hbs",
+		"/home/acamara/MEW2_0/client/mcom/src/templates/partials/productDetails.hbs",
+		"/home/acamara/Downloads/pdpmas_product_collection_image.feature",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/main.scss",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/productPoolView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/util/carousel.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/admediaView.js",
+		"/home/acamara/MEW2_0/Gruntfile.js",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/_zoom.scss",
+		"/home/acamara/Desktop/todo",
+		"/home/acamara/MEW2_0/client/bcom/libs/jquery.finger/jquery.finger.js",
+		"/home/acamara/test.json",
+		"/home/acamara/WSSG.html",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/catSplashView.js",
+		"/home/acamara/MEW2_0/.grunt/grunt-contrib-jasmine/target/mcom/dev/client/scripts/views/productView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/zoomImageView.js",
+		"/home/acamara/MEW2_0/client/common/libs/idangerous.swiper/idangerous.swiper-2.2.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/views/_zoomImageView.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/views/_mainContentView.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/views/_baseView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/homeView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/baseView.js",
+		"/home/acamara/MEW2_0/client/bcom/libs/coremetrics/eluminate.js",
+		"/home/acamara/MEW2_0/client/bcom/libs/coremetrics/cmcustom.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/analytics/bloomiesCoremetrics.js",
+		"/home/acamara/cabin/blog/Gruntfile.js",
+		"/home/acamara/MEW2_0/server/bcom/src/configuration.js",
+		"/home/acamara/MEW2_0/bower.json",
+		"/home/acamara/MEW2_0/client/mcom/src/scripts/views/categoryListView.js",
+		"/home/acamara/MEW2_0/client/common/libs/idangerous.swiper/idangerous.swiper-2.0.js",
+		"/home/acamara/MEW2_0/buildDefaults.json",
+		"/home/acamara/MEW2_0/client/mcom/src/scripts/views/admediaView.js",
+		"/home/acamara/MEW2_0/target/bcom/dev/client/scripts/views/headerView.js",
+		"/home/acamara/MEW2_0/target/mcom/dev/client/scripts/views/admediaView.js",
+		"/home/acamara/MEW2_0/target/mcom/dev/client/scripts/views/categoryListView.js",
+		"/home/acamara/MEW2_0/target/mcom/dev/client/scripts/views/productView.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/helpers/handlebarsHelpers.js",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/sortby.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/_browse.scss",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/browse.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/browseView.js",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/views/categoryView.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/models/_productModel.js",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/_admediaView.scss",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/adMedia.hbs",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/home.hbs",
+		"/home/acamara/Desktop/macys",
+		"/home/acamara/MEW2_0/client/bcom/src/styles/_catSplash.scss",
+		"/home/acamara/MEW2_0/client/bcom/src/scripts/models/admediaModel.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/models/_navModel.js",
+		"/home/acamara/MEW2_0/client/common/src/scripts/views/_navView.js",
+		"/home/acamara/MEW2_0/client/common/src/templates/search.hbs",
+		"/home/acamara/MEW2_0/client/common/test/jasmine/spec/navViewSpec.js",
+		"/home/acamara/MEW2_0/client/common/test/jasmine/fixtures/navMarkup.html",
+		"/home/acamara/MEW2_0/client/common/src/scripts/models/_baseModel.js",
+		"/home/acamara/PEOPLE IN BCOM",
+		"/home/acamara/MEW2_0/client/bcom/src/index.html",
+		"/home/acamara/MEW2_0/client/bcom/src/templates/tierPriceDisplay.hbs",
+		"/home/acamara/Desktop/meeting",
+		"/home/acamara/MEW2_0/client/common/test/jasmine/fixtures/menuItem.json",
+		"/home/acamara/MEW2_0/start.sh",
+		"/home/acamara/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/acamara/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/acamara/Downloads/bootstrap-timepicker-master/less/timepicker.less",
+		"/home/acamara/Downloads/bootstrap-timepicker-master/js/bootstrap-timepicker.min.js",
+		"/home/acamara/Downloads/bootstrap-timepicker-master/README.md",
+		"/home/acamara/Downloads/eternicode-bootstrap-datepicker-6bd7520/README.md",
+		"/home/acamara/Downloads/eternicode-bootstrap-datepicker-6bd7520/js/bootstrap-datepicker.js",
+		"/home/acamara/Downloads/eternicode-bootstrap-datepicker-6bd7520/less/datepicker.less",
+		"/home/acamara/Downloads/bic_calendar-master/css/bic_calendar.css",
+		"/home/acamara/Downloads/bic_calendar-master/js/bic_calendar.min.js",
+		"/home/acamara/Downloads/bic_calendar-master/js/bic_calendar.js",
+		"/home/acamara/Downloads/eternicode-bootstrap-datepicker-6bd7520/component.json",
+		"/home/acamara/acmiles/ACMiles/src/main/webapp/less/main.less",
+		"/home/acamara/acmiles/ACMiles/src/main/webapp/jsp/main.jsp",
+		"/home/acamara/acmiles/ACMiles/src/main/webapp/jsp/pages/dashboard.jsp",
+		"/home/acamara/Dropbox/ACMiles/dashboard.html",
+		"/home/acamara/Dropbox/ACMiles/css/application.min.css",
+		"/home/acamara/Dropbox/ACMiles/js/application.min.js",
+		"/home/acamara/Dropbox/ACMiles/signin.html",
+		"/home/acamara/.config/sublime-text-2/Packages/Browser Refresh/Default (Linux).sublime-keymap",
+		"/home/acamara/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/acamara/Dropbox/ACMiles/css/test.css.scss",
+		"/home/acamara/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/acamara/acdc/app/controllers/holidays_controller.rb",
+		"/home/acamara/acdc-backup/app/assets/stylesheets/monthly_reports.css.scss",
+		"/home/acamara/acdc/app/assets/stylesheets/custom.css.scss",
+		"/home/acamara/acdc/config/environments/development.rb",
+		"/home/acamara/acdc/config/boot.rb",
+		"/home/acamara/acdc/app/assets/stylesheets/application.css.scss",
+		"/home/acamara/Desktop/Questions:",
+		"/home/acamara/acdc/app/assets/stylesheets/monthly_reports.css.scss",
+		"/home/acamara/.config/sublime-text-2/Packages/User/Package Control.last-run",
+		"/home/acamara/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/acamara/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/acamara/acdc/app/views/layouts/_header.html.erb",
+		"/home/acamara/acdc/spec/helper/format_helper_spec.rb",
+		"/home/acamara/acdc/app/helpers/format_helper.rb",
+		"/home/acamara/acdc/app/views/monthly_reports/index.html.erb",
+		"/home/acamara/acdc/app/controllers/monthly_reports_controller.rb",
+		"/home/acamara/acdc/app/models/monthly_hour_computer.rb",
+		"/home/acamara/acdc/features/step_definitions/monthly_report.rb",
+		"/home/acamara/acdc/features/user/monthly_report.feature",
+		"/home/acamara/acdc/config/locales/views/side_bar/en.yml",
+		"/home/acamara/acdc/config/locales/views/side_bar/pt-BR.yml",
+		"/home/acamara/acdc/config/locales/views/static_pages/en.yml",
+		"/home/acamara/acdc/app/views/layouts/application.html.erb",
+		"/home/acamara/acdc/config/locales/views/monthly_report/pt-BR.yml",
+		"/home/acamara/acdc/config/locales/views/monthly_report/en.yml"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/acamara/MEW2_0/",
+			"/home/acamara/MEW2_0/client",
+			"/home/acamara/MEW2_0",
+			"/home/acamara/MEW2_0/client",
+			"/home/acamara/MEW2_0/client/bcom/src",
+			"/home/acamara/MEW2_0/",
+			"/home/acamara/MEW2_0/client/",
+			"/home/acamara/MEW2_0/client/bcom",
+			"/home/acamara/MEW2_0/",
+			"/home/acamara/MEW2_0/client/mcom",
+			"/home/acamara/MEW2_0/client/common",
+			"/home/acamara/MEW2_0/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"entypo",
+			"b-product-qty",
+			"setActiveQty",
+			"$('#mb-j-image-sequence').html(",
+			"setAc",
+			"b-j-product-qty-values",
+			"quanti",
+			"swipeNext",
+			"api.",
+			"qa15",
+			"qa24",
+			"qa",
+			".b-j-product-size",
+			"openModal",
+			"images/",
+			"9d",
+			".b-product-inner",
+			"imageset",
+			"defaultImageset",
+			"product-details",
+			"view",
+			"idange",
+			"vendor/",
+			"vendor/idangerous.swiper-2.2",
+			"swipe",
+			"jquery.event.move",
+			"require",
+			"doubletap",
+			"productPool",
+			"should toggle the global navigation",
+			"toggleNav:: should toggle the global navigation",
+			"toggleNav:: should toggle the global navigation:",
+			"SHOW",
+			"swipeTo",
+			"FALSE",
+			"reInit",
+			"re",
+			"console",
+			"getWrapperTranslate",
+			"swipeTo",
+			"swipeReset",
+			"function swipeReset",
+			"swipeReset",
+			"function",
+			"swipeTo",
+			"swipeReset",
+			"swipeRese",
+			"swipeTo",
+			"swiper",
+			"initialized",
+			"swiper",
+			"postInitialize",
+			"show",
+			"postInitialize",
+			"swiper",
+			"swipeTo",
+			"show",
+			"initZoomView",
+			"subViews",
+			"showZoomModalView",
+			"show",
+			"mb-j-zoom-swiper",
+			"show",
+			"mb-j-image-sequence",
+			"function ( activeIndex) {\n      this.swiper.swipeTo( activeIndex);\n      ModalView.prototype.show.call(this);\n      this.doAnalytics(activeIndex);\n    }",
+			"show",
+			"ZoomModalView",
+			"showZoomModalView",
+			"zoomin",
+			"s7sdk",
+			"cm-site-promotion",
+			"data-cm-site-promotion",
+			"[data-cm-site-promotion]",
+			"cm-site-promotion",
+			"footer",
+			"footerview",
+			"footer",
+			"postRender",
+			" $",
+			"each",
+			"cmCreateManualLinkClickTag",
+			"cm_",
+			"cm_s",
+			"cm_",
+			"featu",
+			"Feat",
+			"Featu",
+			"function cmMakeTag",
+			"cmMakeTag",
+			"v4",
+			"buildUrl",
+			"Create",
+			"create",
+			"idangerous.swiper-2.2",
+			"cmCreatePageElementTag",
+			"Element",
+			"element",
+			"bloomiesCoremetrics",
+			"Coremetrics",
+			"blooming",
+			"vendor/idangerous.swiper-2.0",
+			"vendor/idangerous.swiper",
+			"BUG FIX",
+			"BUGFIX",
+			"if (isH)",
+			"if (!isH)",
+			"calculateHeight",
+			"maxWrapper",
+			"max",
+			"calcula",
+			"postRender",
+			"{\n",
+			"calculateHeight",
+			"containerSize = ",
+			"containerSize: ",
+			"containerSize",
+			"maxWrapperPosition",
+			"320px",
+			"swipeToPo",
+			"setWrapperTranslate",
+			"translate3d",
+			"positions",
+			"con",
+			"console",
+			"#if_eq",
+			"#if_lt",
+			"#if_gt",
+			"b-pdp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vendor/idangerous.swiper-2.2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 99.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}
