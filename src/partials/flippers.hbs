@@ -1,0 +1,22 @@
+<section id="flippers">
+
+	<div class="row">
+	{{#each people}}
+		<div class="flipper-wrapper col-xs-12 col-sm-4 col-md-3 col-lg-3">
+
+			<div data-name="{{this.name}}" class="fc-slideshow">
+	              <ul class="fc-slides">
+
+	              	{{#each this.images}}
+	                  <li><img src="{{this.src}}" /><h3>{{this.date}}</h3></li>
+					{{/each}}
+
+	              </ul>
+	          </div>
+
+        </div>
+
+	{{/each}}
+	</div>
+
+</section>

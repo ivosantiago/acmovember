@@ -1,0 +1,65 @@
+@HeaderHeight: 480px;
+@HeaderImage: url(../img/header.jpg);
+
+@HeaderTitleFontSize: 3em;
+@HeaderSubtitleFontSize: 1.5em;
+
+#header {
+
+	background: @HeaderImage top center repeat;
+	height: @HeaderHeight;
+	text-align: center;
+	position: relative;
+
+	.inner-shadow(0, -7px, 0px, 0px, 0.15);
+
+	& > .container {
+		padding-top: 70px;
+	}
+
+	#ac-logo {
+		position: absolute;
+		background: url(../img/avenuecode.png) center center no-repeat;
+
+		width: 130px;
+		height: 140px;
+
+		top: 15px;
+		left: 15px;
+	}
+
+	#moustache-logo {
+		display: inline-block;
+		background: url(../img/moustache.png) center center no-repeat;
+
+		width: 485px;
+		height: 210px;
+
+		margin-bottom: 20px;
+	}
+
+	h1 {
+		font-family: @TitleFontFamily;
+		font-weight: bold;
+		font-size: @HeaderTitleFontSize;
+
+		color: @ColorWhite;
+
+		.text-shadow (5px 5px 0px rgba(0, 0, 0, 0.2));
+	}
+
+	h2 {
+		font-family: @BodyFontFamily;
+		font-weight: bold;
+		font-size: @HeaderSubtitleFontSize;
+		text-transform: uppercase;
+
+		color: @ColorBrown;
+	}
+
+	a:hover {
+		text-decoration: none;
+		border-bottom: 3px solid @ColorBrown;
+	}
+
+}

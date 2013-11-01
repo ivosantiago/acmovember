@@ -1,0 +1,54 @@
+<!-- src/layouts/default.hbs -->
+<!DOCTYPE html>
+<html>
+    <head>
+
+		<!-- Bootstrap styling -->
+    	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
+
+    	<!-- Main Stylesheets -->
+    	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Font Awesome -->
+        <link href="libs/src/libs/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+
+        <!-- Google Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+
+        <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css'>
+
+        <!-- Main Style -->
+        <link href="css/style.css" rel="stylesheet">
+
+        <!-- Modernizr -->
+        <script src="libs/src/libs/modernizr.custom.js"></script>
+
+        <meta charset="utf-8">
+
+        <title>Movember - Avenue Code</title>
+    </head>
+    <body>
+
+        {{> header }}
+
+        <div id="content-wrapper">
+            <i class="icon-user icon-3x"></i>
+            <div class="container">
+                {{> body }}
+            </div>
+        </div>
+
+        {{> footer }}
+
+		<!-- jQuery -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	
+		<!-- Bootstrap -->
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+
+        <!-- Main Movember Script -->
+        <script src="js/movember.js"></script>
+
+
+    </body>
+</html>
