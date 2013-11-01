@@ -17,17 +17,6 @@
 		padding-top: 70px;
 	}
 
-	#ac-logo {
-		position: absolute;
-		background: url(../img/avenuecode.png) center center no-repeat;
-
-		width: 130px;
-		height: 140px;
-
-		top: 15px;
-		left: 15px;
-	}
-
 	#moustache-logo {
 		display: inline-block;
 		background: url(../img/moustache.png) center center no-repeat;
@@ -36,6 +25,14 @@
 		height: 210px;
 
 		margin-bottom: 20px;
+
+		@media(max-width:767px){
+
+			width: 300px;
+			height: 150px;
+			background-size: 100%;
+
+		}
 	}
 
 	h1 {
