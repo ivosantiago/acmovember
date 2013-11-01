@@ -10,7 +10,6 @@
     	};
 
     	var settings = $.extend( defaults, options );
-
     	var scrolledY = $(window).scrollTop();
 
     	if(settings.scrollType === 'background') {
@@ -26,7 +25,6 @@
         $(window).bind('scroll',function(e){
         
             $('.parallax').each(function() {
-
                 //set options according to data attributes
                 var options = {};
                 var attrs = ["factor", "scrollType"];
@@ -36,7 +34,6 @@
                         options[attribute] = $(this).data(attribute);
                     }
                 }
-                
                 $(this).parallaxScroll(options);
             });
 
